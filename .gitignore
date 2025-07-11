@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+*.log
+*.out
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# Jupyter and Colab checkpoints
+.ipynb_checkpoints/
+
+# Local data and output directories
+data/
+results/
+figures/
+
+# System files
+.DS_Store
